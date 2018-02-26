@@ -1,0 +1,2 @@
+﻿  Module 3 Lab.cpp
+c:\d\cpp\module 3 lab\module 3 lab\module 3 lab.cpp(11): error C3867: 'Student::OutputIdentity': non-standard syntax; use '&' to create a pointer to member
