@@ -1,0 +1,5 @@
+﻿  CS Module 3.3.cpp
+c:\d\cpp\cs module 3.3\cs module 3.3\cs module 3.3.cpp(13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\d\cpp\cs module 3.3\cs module 3.3\cs module 3.3.cpp(18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\d\cpp\cs module 3.3\cs module 3.3\cs module 3.3.cpp(12): warning C4101: 'initialRPM': unreferenced local variable
+  CS Module 3.3.vcxproj -> C:\D\CPP\CS Module 3.3\Debug\CS Module 3.3.exe
