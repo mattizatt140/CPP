@@ -1,4 +1,0 @@
-﻿  Protected Variables Test.cpp
-c:\d\cpp\protected variables test\protected variables test\protected variables test.cpp(23): error C2248: 'base::c': cannot access private member declared in class 'base'
-  c:\d\cpp\protected variables test\protected variables test\protected variables test.cpp(11): note: see declaration of 'base::c'
-  c:\d\cpp\protected variables test\protected variables test\protected variables test.cpp(7): note: see declaration of 'base'
