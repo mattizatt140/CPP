@@ -1,0 +1,6 @@
+﻿  CS Module 5.2.cpp
+c:\d\cpp\cs module 5.2\cs module 5.2\cs module 5.2.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\d\cpp\cs module 5.2\cs module 5.2\cs module 5.2.cpp(45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\d\cpp\cs module 5.2\cs module 5.2\cs module 5.2.cpp(78): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\d\cpp\cs module 5.2\cs module 5.2\cs module 5.2.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CS Module 5.2.vcxproj -> C:\D\CPP\CS Module 5.2\Debug\CS Module 5.2.exe

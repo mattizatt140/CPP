@@ -1,0 +1,4 @@
+﻿  CS Module 6 GPA.cpp
+c:\d\cpp\cs module 6 gpa\cs module 6 gpa\cs module 6 gpa.cpp(63): warning C4101: 'test': unreferenced local variable
+c:\d\cpp\cs module 6 gpa\cs module 6 gpa\cs module 6 gpa.cpp(27): warning C4715: 'comparator': not all control paths return a value
+  CS Module 6 GPA.vcxproj -> C:\D\CPP\CS Module 6 GPA\Debug\CS Module 6 GPA.exe

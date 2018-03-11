@@ -1,0 +1,3 @@
+﻿  Histogram Equalization.cpp
+c:\d\cpp\histogram equalization\histogram equalization\histogram equalization.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Histogram Equalization.vcxproj -> C:\D\CPP\Histogram Equalization\Debug\Histogram Equalization.exe

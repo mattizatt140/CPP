@@ -1,0 +1,9 @@
+﻿  Selective Sort With Vectors.cpp
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(20): warning C4101: 'e': unreferenced local variable
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(31): warning C4101: 'e': unreferenced local variable
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(45): warning C4101: 'e': unreferenced local variable
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(57): warning C4101: 'e': unreferenced local variable
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\d\cpp\selective sort with vectors\selective sort with vectors\selective sort with vectors.cpp(73): warning C4101: 'e': unreferenced local variable
+  Selective Sort With Vectors.vcxproj -> C:\D\CPP\Selective Sort With Vectors\Debug\Selective Sort With Vectors.exe
