@@ -1,0 +1,30 @@
+﻿Build started 3/27/2018 4:48:04 PM.
+     1>Project "C:\D\CPP\Graph Model\Graph Model\Graph Model.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Graph Model.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Graph Model.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Graph Model.cpp"
+         Graph Model.cpp
+     1>c:\d\cpp\graph model\graph model\graph.h(87): warning C4715: 'graph<char>::removeEdge': not all control paths return a value
+     1>c:\d\cpp\graph model\graph model\graph.h(61): warning C4715: 'graph<char>::addEdge': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\D\CPP\Graph Model\Debug\Graph Model.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\D\CPP\Graph Model\Debug\Graph Model.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\D\CPP\Graph Model\Debug\Graph Model.lib" /MACHINE:X86 "Debug\Graph Model.obj"
+         Debug\stdafx.obj
+         Graph Model.vcxproj -> C:\D\CPP\Graph Model\Debug\Graph Model.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Graph Model.tlog\unsuccessfulbuild".
+         Touching "Debug\Graph Model.tlog\Graph Model.lastbuildstate".
+     1>Done Building Project "C:\D\CPP\Graph Model\Graph Model\Graph Model.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\D\CPP\Graph Model\Graph Model\Graph Model.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\graph model\graph model\graph.h(87): warning C4715: 'graph<char>::removeEdge': not all control paths return a value
+         c:\d\cpp\graph model\graph model\graph.h(61): warning C4715: 'graph<char>::addEdge': not all control paths return a value
+
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.67

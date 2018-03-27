@@ -1,0 +1,31 @@
+﻿Build started 3/25/2018 6:33:14 PM.
+     1>Project "C:\D\CPP\Algorithms Module 1 GPA\Algorithms Module 1 GPA\Algorithms Module 1 GPA.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Algorith.A27FB8E4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Algorithms Module 1 GPA.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Algorithms Module 1 GPA.cpp"
+         Algorithms Module 1 GPA.cpp
+     1>c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(57): error C2228: left of '.at' must have class/struct/union
+         c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(57): note: type is 'int [100000]'
+     1>c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(58): error C2228: left of '.at' must have class/struct/union
+         c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(58): note: type is 'int [100000]'
+     1>c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(76): warning C4018: '<': signed/unsigned mismatch
+     1>Done Building Project "C:\D\CPP\Algorithms Module 1 GPA\Algorithms Module 1 GPA\Algorithms Module 1 GPA.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+       "C:\D\CPP\Algorithms Module 1 GPA\Algorithms Module 1 GPA\Algorithms Module 1 GPA.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(76): warning C4018: '<': signed/unsigned mismatch
+
+
+       "C:\D\CPP\Algorithms Module 1 GPA\Algorithms Module 1 GPA\Algorithms Module 1 GPA.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(57): error C2228: left of '.at' must have class/struct/union
+         c:\d\cpp\algorithms module 1 gpa\algorithms module 1 gpa\algorithms module 1 gpa.cpp(58): error C2228: left of '.at' must have class/struct/union
+
+    1 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.99

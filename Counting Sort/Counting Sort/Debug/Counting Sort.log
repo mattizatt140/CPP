@@ -1,0 +1,50 @@
+﻿Build started 3/23/2018 9:36:18 PM.
+     1>Project "C:\D\CPP\Counting Sort\Counting Sort\Counting Sort.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Counting Sort.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Counting Sort.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Counting Sort.cpp"
+         Counting Sort.cpp
+     1>c:\d\cpp\counting sort\counting sort\counting sort.cpp(22): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(63): note: see reference to function template instantiation 'void countSort<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>c:\d\cpp\counting sort\counting sort\counting sort.cpp(26): warning C4018: '<': signed/unsigned mismatch
+     1>c:\d\cpp\counting sort\counting sort\counting sort.cpp(32): warning C4018: '<': signed/unsigned mismatch
+     1>c:\d\cpp\counting sort\counting sort\counting sort.cpp(10): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(19): note: see reference to function template instantiation 'T returnMax<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+                 with
+                 [
+                     T=int,
+                     _Ty=int
+                 ]
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(63): note: see reference to function template instantiation 'void countSort<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\D\CPP\Counting Sort\Debug\Counting Sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\D\CPP\Counting Sort\Debug\Counting Sort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\D\CPP\Counting Sort\Debug\Counting Sort.lib" /MACHINE:X86 "Debug\Counting Sort.obj"
+         Debug\stdafx.obj
+         Counting Sort.vcxproj -> C:\D\CPP\Counting Sort\Debug\Counting Sort.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Counting Sort.tlog\unsuccessfulbuild".
+         Touching "Debug\Counting Sort.tlog\Counting Sort.lastbuildstate".
+     1>Done Building Project "C:\D\CPP\Counting Sort\Counting Sort\Counting Sort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\D\CPP\Counting Sort\Counting Sort\Counting Sort.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(22): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(26): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(32): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\counting sort\counting sort\counting sort.cpp(10): warning C4018: '<': signed/unsigned mismatch
+
+    4 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.91

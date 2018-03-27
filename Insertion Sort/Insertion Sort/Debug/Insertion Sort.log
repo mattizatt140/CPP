@@ -1,0 +1,37 @@
+﻿Build started 3/25/2018 2:01:11 PM.
+     1>Project "C:\D\CPP\Insertion Sort\Insertion Sort\Insertion Sort.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Insertion Sort.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Insertion Sort.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Insertion Sort.cpp"
+         Insertion Sort.cpp
+     1>c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(36): warning C4018: '<': signed/unsigned mismatch
+     1>c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(35): note: see reference to function template instantiation 'void insertionSort<double>(std::vector<double,std::allocator<_Ty>> &,int)' being compiled
+                 with
+                 [
+                     _Ty=double
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\D\CPP\Insertion Sort\Debug\Insertion Sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\D\CPP\Insertion Sort\Debug\Insertion Sort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\D\CPP\Insertion Sort\Debug\Insertion Sort.lib" /MACHINE:X86 "Debug\Insertion Sort.obj"
+         Debug\stdafx.obj
+         Insertion Sort.vcxproj -> C:\D\CPP\Insertion Sort\Debug\Insertion Sort.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Insertion Sort.tlog\unsuccessfulbuild".
+         Touching "Debug\Insertion Sort.tlog\Insertion Sort.lastbuildstate".
+     1>Done Building Project "C:\D\CPP\Insertion Sort\Insertion Sort\Insertion Sort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\D\CPP\Insertion Sort\Insertion Sort\Insertion Sort.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(36): warning C4018: '<': signed/unsigned mismatch
+         c:\d\cpp\insertion sort\insertion sort\insertion sort.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+
+    3 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.14

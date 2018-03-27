@@ -1,0 +1,22 @@
+﻿Build started 3/27/2018 2:27:11 PM.
+     1>Project "C:\D\CPP\Implementation of Data Structures Module 3 GPA\Implementation of Data Structures Module 3 GPA\Implementation of Data Structures Module 3 GPA.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Implemen.0617DD54.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Implementation of Data Structures Module 3 GPA.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Implementation of Data Structures Module 3 GPA.cpp"
+         Implementation of Data Structures Module 3 GPA.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\D\CPP\Implementation of Data Structures Module 3 GPA\Debug\Implementation of Data Structures Module 3 GPA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\D\CPP\Implementation of Data Structures Module 3 GPA\Debug\Implementation of Data Structures Module 3 GPA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\D\CPP\Implementation of Data Structures Module 3 GPA\Debug\Implementation of Data Structures Module 3 GPA.lib" /MACHINE:X86 "Debug\Implementation of Data Structures Module 3 GPA.obj"
+         Debug\stdafx.obj
+         Implementation of Data Structures Module 3 GPA.vcxproj -> C:\D\CPP\Implementation of Data Structures Module 3 GPA\Debug\Implementation of Data Structures Module 3 GPA.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Implemen.0617DD54.tlog\unsuccessfulbuild".
+         Touching "Debug\Implemen.0617DD54.tlog\Implementation of Data Structures Module 3 GPA.lastbuildstate".
+     1>Done Building Project "C:\D\CPP\Implementation of Data Structures Module 3 GPA\Implementation of Data Structures Module 3 GPA\Implementation of Data Structures Module 3 GPA.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.13

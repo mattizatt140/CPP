@@ -1,0 +1,144 @@
+﻿Build started 3/16/2018 11:22:09 AM.
+     1>Project "C:\D\CPP\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Foundati.0BB60E36.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Foundations of Data Structures Module 1 GPA.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "Foundations of Data Structures Module 1 GPA.cpp"
+         Foundations of Data Structures Module 1 GPA.cpp
+     1>c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(61): warning C4099: 'Point': type name first seen using 'class' now seen using 'struct'
+         c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(9): note: see declaration of 'Point'
+     1>c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(62): warning C4099: 'Point': type name first seen using 'class' now seen using 'struct'
+         c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(9): note: see declaration of 'Point'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\D\CPP\Foundations of Data Structures Module 1 GPA\Debug\Foundations of Data Structures Module 1 GPA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\D\CPP\Foundations of Data Structures Module 1 GPA\Debug\Foundations of Data Structures Module 1 GPA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\D\CPP\Foundations of Data Structures Module 1 GPA\Debug\Foundations of Data Structures Module 1 GPA.lib" /MACHINE:X86 "Debug\Foundations of Data Structures Module 1 GPA.obj"
+         Debug\stdafx.obj
+         Foundations of Data Structures Module 1 GPA.vcxproj -> C:\D\CPP\Foundations of Data Structures Module 1 GPA\Debug\Foundations of Data Structures Module 1 GPA.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Foundati.0BB60E36.tlog\unsuccessfulbuild".
+         Touching "Debug\Foundati.0BB60E36.tlog\Foundations of Data Structures Module 1 GPA.lastbuildstate".
+     1>Done Building Project "C:\D\CPP\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA.vcxproj" (Build target(s)).
+
+Project Performance Summary:
+     2274 ms  C:\D\CPP\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA.vcxproj   1 calls
+               2274 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  Build                                      1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  RegisterOutput                             1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  PlatformPrepareForBuild                    1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  ComputeCLOutputs                           1 calls
+        1 ms  _CheckForCompileOutputs                    1 calls
+        1 ms  ComputeLegacyManifestEmbedding             1 calls
+        1 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        1 ms  CopyFilesToOutputDirectory                 1 calls
+        1 ms  GetCopyToOutputDirectoryItems              1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  ComputeCLGeneratedLinkInputs               1 calls
+        1 ms  DoLinkOutputFilesMatch                     1 calls
+        1 ms  MakeDirsForBscMake                         1 calls
+        1 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        1 ms  GetResolvedWinMD                           1 calls
+        1 ms  _SplitProjectReferencesByFileExistence     1 calls
+        1 ms  Desktop_PlatformPrepareForBuild            1 calls
+        1 ms  FixupCLCompileOptions                      1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  MakeDirsForLink                            1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  ComputeReferenceCLInput                    1 calls
+        1 ms  CleanupEmptyRefsFolder                     1 calls
+        2 ms  GetFrameworkPaths                          1 calls
+        2 ms  ComputeLinkSwitches                        1 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        2 ms  FinalizeBuildStatus                        1 calls
+        3 ms  _PrepareForReferenceResolution             1 calls
+        3 ms  MakeDirsForMidl                            1 calls
+        3 ms  _PrepareForBuild                           1 calls
+        3 ms  MakeDirsForCl                              1 calls
+        4 ms  WarnCompileDuplicatedFilename              1 calls
+       10 ms  SetBuildDefaultEnvironmentVariables        1 calls
+       12 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+       14 ms  InitializeBuildStatus                      1 calls
+       24 ms  PrepareForBuild                            1 calls
+       26 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       29 ms  _HandlePackageFileConflicts                1 calls
+       32 ms  ComputeLinkInputsFromProject               1 calls
+       34 ms  ResolveProjectReferences                   1 calls
+      236 ms  SetCABuildNativeEnvironmentVariables       1 calls
+      378 ms  Link                                       1 calls
+     1430 ms  ClCompile                                  1 calls
+
+Build succeeded.
+
+       "C:\D\CPP\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA\Foundations of Data Structures Module 1 GPA.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(61): warning C4099: 'Point': type name first seen using 'class' now seen using 'struct'
+         c:\d\cpp\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa\foundations of data structures module 1 gpa.cpp(62): warning C4099: 'Point': type name first seen using 'class' now seen using 'struct'
+
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.25
