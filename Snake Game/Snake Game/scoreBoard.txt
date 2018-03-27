@@ -1,8 +1,0 @@
-5d 100
-hm 0
-id 110
-steve 150
-sd 180
-jim 180
-oo 40
-sdfj 10
